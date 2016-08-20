@@ -111,33 +111,33 @@ public class DetailNational {
     public static int imageFile11 = R.drawable.cined;
     public static String coords11 = "4.692640, -74.033082";
 
-    public static String title12 = "titulo12";
-    public static String description12 = "description12";
-    public static String phone12 = "1244567";
-    public static String email12 = "some@gmail.com";
-    public static int imageFile12 = R.drawable.tienda;
-    public static String coords12 = "37.7749,-122.4194";
+    public static String title12 = "100% como nos gusta";
+    public static String description12 = "Presentando tarjeta Recordar 20% descuento, lunes a jueves de 2:00 a 5:00 pm, no aplica para combos ni en franquicias.";
+    public static String phone12 = "311 8515408";
+    public static String email12 = "damaris.leon@conboca.com";
+    public static int imageFile12 = R.drawable.kokorikod;
+    public static String coords12 = "11.006318, -74.818171";
 
-    public static String title13 = "titulo13";
-    public static String description13 = "description13";
-    public static String phone13 = "1344567";
-    public static String email13 = "some@gmail.com";
-    public static int imageFile13 = R.drawable.tienda;
-    public static String coords13 = "37.7749,-122.4194";
+    public static String title13 = "Servicios turísticos";
+    public static String description13 = "Contacto: Katherine Garzón, beneficio para afiliados: tarifas especiales para descubrir el mundo con Club Recordar.";
+    public static String phone13 = "3176446016";
+    public static String email13 = "recervas@heliostravel.com.co";
+    public static int imageFile13 = R.drawable.heliosd;
+    public static String coords13 = "4.702171, -74.030433";
 
-    public static String title14 = "titulo14";
-    public static String description14 = "description14";
-    public static String phone14 = "1444567";
-    public static String email14 = "some@gmail.com";
-    public static int imageFile14 = R.drawable.tienda;
-    public static String coords14 = "37.7749,-122.4194";
+    public static String title14 = "Próximamente";
+    public static String description14 = "Próximamente";
+    public static String phone14 = "#";
+    public static String email14 = "#";
+    public static int imageFile14 = R.drawable.subwd;
+    public static String coords14 = "#";
 
-    public static String title15 = "titulo15";
-    public static String description15 = "description15";
-    public static String phone15 = "1544567";
-    public static String email15 = "some@gmail.com";
-    public static int imageFile15 = R.drawable.alianzas;
-    public static String coords15 = "37.7749,-122.4194";
+    public static String title15 = "Próximamente";
+    public static String description15 = "#";
+    public static String phone15 = "#";
+    public static String email15 = "#";
+    public static int imageFile15 = R.drawable.kfcd;
+    public static String coords15 = "#";
 
 
     public static void addObjectsNational(){
