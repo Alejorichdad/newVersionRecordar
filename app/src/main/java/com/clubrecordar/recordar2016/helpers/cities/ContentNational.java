@@ -13,65 +13,65 @@ public class ContentNational {
 
     public static List<NationalModel> contentNational =  new ArrayList<>();
 
-    public static String titulo1 = "item title national 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description national 1";
+    public static String titulo1 = "Sonría";
+    public static int imageFile1 = R.drawable.sonria;
+    public static String description1 = "El poder de tu sonrisa";
 
-    public static String titulo2 = "item title national 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description national 2";
+    public static String titulo2 = "Helados Mimos";
+    public static int imageFile2 = R.drawable.mimos;
+    public static String description2 = "Disfruta con esta deliciosa alianza";
 
-    public static String titulo3 = "item title national 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description national 3";
+    public static String titulo3 = "Computadores y tecnología";
+    public static int imageFile3 = R.drawable.compuworking;
+    public static String description3 = "¿Necesitas un computador nuevo?";
 
-    public static String titulo4 = "item title national 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description national 4";
+    public static String titulo4 = "Escuela de negocios";
+    public static int imageFile4 = R.drawable.ceipa;
+    public static String description4 = "Somos la universidad de la empresa";
 
-    public static String titulo5 = "item title national 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description national 5";
+    public static String titulo5 = "Lo mejor en impresión";
+    public static int imageFile5 = R.drawable.agn;
+    public static String description5 = "Los mejores precios y mayor calidad";
 
-    public static String titulo6 = "item title national 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description national 6";
+    public static String titulo6 = "Presto desde 1981";
+    public static int imageFile6 = R.drawable.presto;
+    public static String description6 = "La primera hamburguesa";
 
-    public static String titulo7 = "item title national 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description national 7";
+    public static String titulo7 = "Agencia de viajes";
+    public static int imageFile7 = R.drawable.incoming1;
+    public static String description7 = "Mejores planes turísticos";
 
-    public static String titulo8 = "item title national 8";
-    public static int imageFile8 = R.drawable.tienda;
-    public static String description8 = "item description national 8";
+    public static String titulo8 = "Protección patrimonial";
+    public static int imageFile8 = R.drawable.corban;
+    public static String description8 = "Acompañamiento de nuestros Clientes";
 
-    public static String titulo9 = "item title national 9";
-    public static int imageFile9 = R.drawable.tienda;
-    public static String description9 = "item description national 9";
+    public static String titulo9 = "Discoteca Bar Restaurante";
+    public static int imageFile9 = R.drawable.casa;
+    public static String description9 = "Disfruta con tus amigos";
 
-    public static String titulo10 = "item title national 10";
-    public static int imageFile10 = R.drawable.tienda;
-    public static String description10 = "item description national 10";
+    public static String titulo10 = "Consultoría";
+    public static int imageFile10 = R.drawable.abogado;
+    public static String description10 = "Servicios legales y especializados";
 
-    public static String titulo11 = "item title national 11";
-    public static int imageFile11 = R.drawable.tienda;
-    public static String description11 = "item description national 11";
+    public static String titulo11 = "Las mejores salas de cine";
+    public static int imageFile11 = R.drawable.cine;
+    public static String description11 = "Los mejores estrenos";
 
-    public static String titulo12 = "item title national 12";
-    public static int imageFile12 = R.drawable.tienda;
-    public static String description12 = "item description national 12";
+    public static String titulo12 = "100% como nos gusta";
+    public static int imageFile12 = R.drawable.kokoriko;
+    public static String description12 = "Disfruta esta deliciosa alianza";
 
-    public static String titulo13 = "item title national 13";
-    public static int imageFile13 = R.drawable.tienda;
-    public static String description13 = "item description national 13";
+    public static String titulo13 = "Servicios turísticos";
+    public static int imageFile13 = R.drawable.helios;
+    public static String description13 = "Destinos nacionales e internacionales";
 
-    public static String titulo14 = "item title national 14";
-    public static int imageFile14 = R.drawable.tienda;
-    public static String description14 = "item description national 14";
+    public static String titulo14 = "Próximamente";
+    public static int imageFile14 = R.drawable.subw;
+    public static String description14 = "Próximamente";
 
-    public static String titulo15 = "item title national 15";
-    public static int imageFile15 = R.drawable.tienda;
-    public static String description15 = "item description national 15";
+    public static String titulo15 = "Próximamente";
+    public static int imageFile15 = R.drawable.kfc;
+    public static String description15 = "Próximamente";
 
     public static void addContentNational(){
         contentNational.add(new NationalModel(imageFile1, titulo1, description1));

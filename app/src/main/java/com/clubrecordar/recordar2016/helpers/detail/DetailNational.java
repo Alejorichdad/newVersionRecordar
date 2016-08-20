@@ -28,82 +28,88 @@ public class DetailNational {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static String email1 = "some@gmail.com";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Clínica Dental Sonría";
+    public static String description1 = "Contacto: Diego Delgadillo, beneficio afiliados, 35% de descuento en todos los tratamientos excepto promocionales.";
+    public static String phone1 = "3195434436";
+    public static String email1 = "diego.delgadillo@sonria.com.co";
+    public static int imageFile1 = R.drawable.sonriad;
+    public static String coords1 = "4.644985, -74.072570";
 
-    public static String title2 = "titulo2";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "Heladeria Mimos";
+    public static String description2 = "Presentando tarjeta Recordar por la compra de un “mixer galleta” recibe un (1) segundo mixer galleta gratis.\n" + "- Condiciones: No aplica para domicilios, producto no valido en empaque para llevar.\n" +
+            "Aplica en todos los puntos de venta “Mimo´s” a nivel nacional con" +
+            "excepción de aquellos localizados en los aeropuertos y puntos de venta Flamingo.";
+    public static String phone2 = "0314100099";
+    public static String email2 = "servicioalcliente@conboca.com";
+    public static int imageFile2 = R.drawable.mimod;
+    public static String coords2 = "4.698125, -74.047664";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Computadores y tecnología";
+    public static String description3 = "Contacto: Manuel Ballestas, beneficio afiliados: Variedad de productos con descuentos periódicamente.";;
+    public static String phone3 = "3192486718";
+    public static String email3 = "corporativo@computerworking.net";
+    public static int imageFile3 = R.drawable.computerd;
+    public static String coords3 = "10.424608, -75.546924";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "Escuela de negocios";
+    public static String description4 = "Contacto: Andrés Espinoza, beneficio afiliados: 13% devdescuento en educación virtual.";
+    public static String phone4 = "3192486718";
+    public static String email4 = "andres.espinoza@ceipa.edu.co";
+    public static int imageFile4 = R.drawable.ceipad;
+    public static String coords4 = "6.144818, -75.619137";
 
-    public static String title5 = "titulo5";
-    public static String description5 = "description5";
-    public static String phone5 = "544567";
-    public static String email5 = "some@gmail.com";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String coords5 = "37.7749,-122.4194";
+    public static String title5 = "Artes Gráficas del Norte";
+    public static String description5 = "Contacto: Francisco Corena, beneficio afiliados: 10% de descuento en impresión litográfica, incluye envío a nivel nacional.";
+    public static String phone5 = "3183867124";
+    public static String email5 = "artesgraficasdelnorte07@gmail.com";
+    public static int imageFile5 = R.drawable.agnd;
+    public static String coords5 = "10.996069, -74.801846";
 
-    public static String title6 = "titulo6";
-    public static String description6 = "description6";
-    public static String phone6 = "644567";
-    public static String email6 = "some@gmail.com";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String coords6 = "37.7749,-122.4194";
+    public static String title6 = "Presto desde 1981";
+    public static String description6 = "Presentando la tarjeta Recordar, adquiere cualquiera de estos 3 combos por $ 11.900 cada uno.\n" + "1.Combo Súper Especial con Queso: Hamburguesa de res con queso, porción de papas mini y gaseosa  de 12 onzas. Código 2190\n" + "2.Combo Súper Pollo con Queso: Hamburguesa de pollo con queso, porción de papas mini y  Gaseosa de 12 onzas). Código 2191\n" + "3.Combo Súper Perro con Queso: Perro caliente con queso,  pepinillo, cebolla, salsa de tomate, salsa Presto, porción de papas mini y gaseosa de 12 onzas). Código 2192\n" +
+                                        "Condiciones\n" +
+                                        "Ser afiliado Recordar\n" +
+                                        "Valido del 1 de Enero al 31 de diciembre de 2016 en salón y a domicilio a nivel nacional, excepto Aeropuertos, Corferias y San Andrés, con recargo adicional por el servicio a domicilio. El recargo tendrá un valor de $3.300 por compras hasta $33.000; y por compras de $33.001 en adelante, el valor del recargo corresponderá al 10% del valor del pedido. El monto máximo a cobrar por el servicio de domicilio es de $7.000. Alianza sujeta a la cobertura de domicilios de Presto a nivel nacional y a los horarios de atención de los puntos de venta, los cuales pueden ser consultados en las líneas de domicilios de cada ciudad. Ver números telefónicos en www.presto.com.co. Se debe mencionar la alianza al momento de hacer el pedido. No es canjeable por dinero en efectivo. *La hamburguesa súper equivale a una hamburguesa sencilla. ** El precio de las papas mini fue calculado con base en el costo de las papas súper y de las papas medianas ofrecidas en los puntos de venta. ***El súper perro con queso equivale al perro caliente con queso. **** La súper pollo equivale a la hamburguesa de pollo. A domicilio se entrega gaseosa 10 oz. Botella. Perro caliente sujeto a disponibilidad.";
 
-    public static String title7 = "titulo7";
-    public static String description7 = "description7";
-    public static String phone7 = "744567";
-    public static String email7 = "some@gmail.com";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String coords7 = "37.7749,-122.4194";
+    public static String phone6 = "3105654169";
+    public static String email6 = "mcaparroso@frayco.com.co";
+    public static int imageFile6 = R.drawable.prestod;
+    public static String coords6 = "4.685585, -74.049133";
 
-    public static String title8 = "titulo8";
-    public static String description8 = "description8";
-    public static String phone8 = "844567";
-    public static String email8 = "some@gmail.com";
-    public static int imageFile8 = R.drawable.tienda;
-    public static String coords8 = "37.7749,-122.4194";
+    public static String title7 = "Agencia de viajes";
+    public static String description7 = "Contacto: Juan Manuel Reina, beneficio para los afiliados: tarifas especiales en viajes y asesoría gratuita.";
+    public static String phone7 = "3102607330";
+    public static String email7 = "gerencia@incomingcolombia.com";
+    public static int imageFile7 = R.drawable.incoming1;
+    public static String coords7 = "4.699570, -74.030300";
 
-    public static String title9 = "titulo9";
-    public static String description9 = "description9";
-    public static String phone9 = "944567";
-    public static String email9 = "some@gmail.com";
-    public static int imageFile9 = R.drawable.tienda;
-    public static String coords9 = "37.7749,-122.4194";
+    public static String title8 = "Proteccón patrimonia Corban Colombia";
+    public static String description8 = "Contacto: Camilo Sendoya, Sandra Quintero, 3003115981, beneficio afiliados: gratis asesoría personal que te ayuda a planear tus finanzas.";
+    public static String phone8 = "3016148701";
+    public static String email8 = "camilosendoya@corbancolombia.com";
+    public static int imageFile8 = R.drawable.corband;
+    public static String coords8 = "4.752171, -74.065104";
 
-    public static String title10 = "titulo10";
-    public static String description10 = "description10";
-    public static String phone10 = "1044567";
-    public static String email10 = "some@gmail.com";
-    public static int imageFile10 = R.drawable.tienda;
-    public static String coords10 = "37.7749,-122.4194";
+    public static String title9 = "Casa de la cerveza";
+    public static String description9 = "Contacto: Rocio Medina, beneficio para los afiliados: 10% descuento presentando su tarjeta Recordar.";
+    public static String phone9 = "3162914617";
+    public static String email9 = "eventos@elranchodejonas.com";
+    public static int imageFile9 = R.drawable.casacerv;
+    public static String coords9 = "4.667740, -74.054388";
 
-    public static String title11 = "titulo11";
-    public static String description11 = "description11";
-    public static String phone11 = "1144567";
-    public static String email11 = "some@gmail.com";
-    public static int imageFile11 = R.drawable.tienda;
-    public static String coords11 = "37.7749,-122.4194";
+    public static String title10 = "Consultarás legales";
+    public static String description10 = "Contacto: Milton Camelo, beneficio afiliados: tarifas especiales en los procesos a llevar y asesoría telefónica gratuita.";
+    public static String phone10 = " 3205149434";
+    public static String email10 = "macvega@msn.com";
+    public static int imageFile10 = R.drawable.abogadod;
+    public static String coords10 = "4.680664, -74.041231";
+
+    public static String title11 = "Las mejores salas de cine";
+    public static String description11 = "Contacto: Ximena Ricaurte Pbx: 7481616 Ext:2142, beneficio para afiliados: bonos cualquier teatro función 2D general $ 7000. Compra por intermedio nuestro.";
+    public static String phone11 = "031 7481616";
+    public static String email11 = "ximena.ricaurte@gruporecordar.com.co";
+    public static int imageFile11 = R.drawable.cined;
+    public static String coords11 = "4.692640, -74.033082";
 
     public static String title12 = "titulo12";
     public static String description12 = "description12";
