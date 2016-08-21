@@ -29,110 +29,110 @@ public class DetailBarranquilla {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static String email1 = "some@gmail.com";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Spa Lily Tovar";
+    public static String description1 = "Contacto: Lily Tovar, beneficio para afiliados. 50% de descuento en pagos de contado.";
+    public static String phone1 = "3017909434";
+    public static String email1 = "lilitb@hotmail.es";
+    public static int imageFile1 = R.drawable.lilyd;
+    public static String coords1 = "10.988796, -74.801953";
 
-    public static String title2 = "titulo2";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "Directorio de Barranquilla";
+    public static String description2 = "Contacto: Willian Jaimes Sanabria, Directorio comercial de Barranquilla. ";
+    public static String phone2 = "301 422 0937";
+    public static String email2 = "gerenciaadministrativa@directoriobarranquilla.com";
+    public static int imageFile2 = R.drawable.sec2b;
+    public static String coords2 = "10.994630, -74.812640";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.barranquilla;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Divercity";
+    public static String description3 = "Contacto: Marcela Durán, beneficio afiliados: Pasaportes 6 meses $ 70 mil pesos compra por intermedio nuestro.";
+    public static String phone3 = "035 3677500";
+    public static String email3 = "paolaferro@divercity.com.co";
+    public static int imageFile3 = R.drawable.diverd;
+    public static String coords3 = "11.013485, -74.828488";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.barranquilla;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "Academia de Artes y Cultura del Caribe";
+    public static String description4 = "Contacto: Sania Patricia Eguis Risso, beneficio para los afiliados: 30% de descuento.";
+    public static String phone4 = "035 3590635";
+    public static String email4 = " ibethr.jaramillo@gmail.com";
+    public static int imageFile4 = R.drawable.acad;
+    public static String coords4 = "11.002882, -74.823345";
 
-    public static String title5 = "titulo5";
-    public static String description5 = "description5";
-    public static String phone5 = "544567";
-    public static String email5 = "some@gmail.com";
-    public static int imageFile5 = R.drawable.barranquilla;
-    public static String coords5 = "37.7749,-122.4194";
+    public static String title5 = "Institución de educación superior";
+    public static String description5 = "Contacto: Jicel Guerrero Bolaño, beneficio afiliados: 20% descuento durante toda la carrera y en cualquiera de los programas";
+    public static String phone5 = "3214413150";
+    public static String email5 = " desarrollo_empresarial@pca.edu.co";
+    public static int imageFile5 = R.drawable.polid;
+    public static String coords5 = "11.006815, -74.814340";
 
-    public static String title6 = "titulo6";
-    public static String description6 = "description6";
-    public static String phone6 = "644567";
-    public static String email6 = "some@gmail.com";
-    public static int imageFile6 = R.drawable.barranquilla;
-    public static String coords6 = "37.7749,-122.4194";
+    public static String title6 = "wicer Auditorías especializadas";
+    public static String description6 = "Contacto: Jicel Guerrero Bolaño, beneficio para los afiliados: 15% de descuento en consultoría.";
+    public static String phone6 = "3214413150";
+    public static String email6 = " desarrollo_empresarial@pca.edu.co";
+    public static int imageFile6 = R.drawable.wicerd;
+    public static String coords6 = "10.974407, -74.803984";
 
-    public static String title7 = "titulo7";
-    public static String description7 = "description7";
-    public static String phone7 = "744567";
-    public static String email7 = "some@gmail.com";
-    public static int imageFile7 = R.drawable.barranquilla;
-    public static String coords7 = "37.7749,-122.4194";
+    public static String title7 = "Colegio Inca";
+    public static String description7 = "Contacto: Celdy Mullet, beneficio para los afiliados: 10% de descuento.";
+    public static String phone7 = "318 711 5556";
+    public static String email7 = "gerencia.cinterno@centroinca.com";
+    public static int imageFile7 = R.drawable.incad;
+    public static String coords7 = "10.990637, -74.793271";
 
-    public static String title8 = "titulo8";
-    public static String description8 = "description8";
-    public static String phone8 = "844567";
-    public static String email8 = "some@gmail.com";
-    public static int imageFile8 = R.drawable.barranquilla;
+    public static String title8 = "Centro Inca";
+    public static String description8 = "Contacto: Celdy Mullet, beneficio para los afiliados: 17% de descuento.";
+    public static String phone8 = "318 711 5556";
+    public static String email8 = "gerencia.cinterno@centroinca.com";
+    public static int imageFile8 = R.drawable.bachiinca;
     public static String coords8 = "37.7749,-122.4194";
 
-    public static String title9 = "titulo9";
-    public static String description9 = "description9";
+    public static String title9 = "Indoamérica";
+    public static String description9 = "Contacto: Celdy Mullet, beneficio para los afiliados: 60% de descuento.";
     public static String phone9 = "944567";
-    public static String email9 = "some@gmail.com";
-    public static int imageFile9 = R.drawable.barranquilla;
-    public static String coords9 = "37.7749,-122.4194";
+    public static String email9 = "gerencia.cinterno@centroinca.com";
+    public static int imageFile9 = R.drawable.indod;
+    public static String coords9 = "10.990670, -74.793287";
 
-    public static String title10 = "titulo10";
-    public static String description10 = "description10";
-    public static String phone10 = "1044567";
-    public static String email10 = "some@gmail.com";
-    public static int imageFile10 = R.drawable.barranquilla;
-    public static String coords10 = "37.7749,-122.4194";
+    public static String title10 = "Bachillerato técnico autodirigido";
+    public static String description10 = "Contacto: Celdy Mullet, beneficio para los afiliados: 10% de descuento.";
+    public static String phone10 = "318 711 5556";
+    public static String email10 = "gerencia.cinterno@centroinca.com";
+    public static int imageFile10 = R.drawable.bachiincad;
+    public static String coords10 = "10.990670, -74.793287";
 
-    public static String title11 = "titulo11";
-    public static String description11 = "description11";
-    public static String phone11 = "1144567";
-    public static String email11 = "some@gmail.com";
-    public static int imageFile11 = R.drawable.barranquilla;
-    public static String coords11 = "37.7749,-122.4194";
+    public static String title11 = "Hotel Prado Mar";
+    public static String description11 = "Contacto: Maisury Colina, beneficio para los afiliados: 10% descuento y precios especiales en eventos.";
+    public static String phone11 = "300 632 0544";
+    public static String email11 = "eventos@hotelpradomar.com";
+    public static int imageFile11 = R.drawable.pradod;
+    public static String coords11 = "11.005704, -74.952497";
 
-    public static String title12 = "titulo12";
-    public static String description12 = "description12";
-    public static String phone12 = "1244567";
-    public static String email12 = "some@gmail.com";
-    public static int imageFile12 = R.drawable.barranquilla;
-    public static String coords12 = "37.7749,-122.4194";
+    public static String title12 = "Electro Aceite";
+    public static String description12 = "Contacto: Franky Linero, beneficio para los afiliados: 20% descuento cambio aceite y 10% en mecánica.";
+    public static String phone12 = " 3012645844,";
+    public static String email12 = "Frankylinero18@hotmail.com";
+    public static int imageFile12 = R.drawable.electrod;
+    public static String coords12 = "10.985099, -74.794954";
 
-    public static String title13 = "titulo13";
-    public static String description13 = "description13";
-    public static String phone13 = "1344567";
-    public static String email13 = "some@gmail.com";
-    public static int imageFile13 = R.drawable.barranquilla;
-    public static String coords13 = "37.7749,-122.4194";
+    public static String title13 = "Alquiler de computadores de oficina";
+    public static String description13 = "Contacto: Ibeth Reales, beneficio para los afiliados: 10% descuento en productos y servicios.";
+    public static String phone13 = " 301 630 9606";
+    public static String email13 = "ventasnovasys@hotmail.com";
+    public static int imageFile13 = R.drawable.novasys;
+    public static String coords13 = "10.996205, -74.801903";
 
-    public static String title14 = "titulo14";
-    public static String description14 = "description14";
-    public static String phone14 = "1444567";
-    public static String email14 = "some@gmail.com";
-    public static int imageFile14 = R.drawable.barranquilla;
-    public static String coords14 = "37.7749,-122.4194";
+    public static String title14 = "Club Deportivo Instenalco";
+    public static String description14 = "Contacto: Dany Fernández, beneficio para los afiliados: 50% en todas las modalidades deportivas de Club Deportivo Instenalco.";
+    public static String phone14 = "3005062789";
+    public static String email14 = "deportes@pca.edu.co";
+    public static int imageFile14 = R.drawable.instenalcod;
+    public static String coords14 = "#";
 
-    public static String title15 = "titulo15";
-    public static String description15 = "description15";
-    public static String phone15 = "1544567";
-    public static String email15 = "some@gmail.com";
-    public static int imageFile15 = R.drawable.alianzas;
-    public static String coords15 = "37.7749,-122.4194";
+    public static String title15 = "Parque del Sol";
+    public static String description15 = "Contacto: Patricia García, beneficio afiliados: 30% descuento en reserva de cancha y descuento especial en las diferentes modalidades deportivas.";
+    public static String phone15 = "3005668936";
+    public static String email15 = "pgarcia@parquedelsol.org";
+    public static int imageFile15 = R.drawable.parquesold;
+    public static String coords15 = "10.987688, -74.811412";
 
 
     public static void addObjectsBarranquilla(){
