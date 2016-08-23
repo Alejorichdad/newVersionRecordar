@@ -13,65 +13,65 @@ public class ContentBogota {
 
     public static List<BogotaModel> contentBogota =  new ArrayList<>();
 
-    public static String titulo1 = "item title bogota 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description bogota 1";
+    public static String titulo1 = "Puppies spa";
+    public static int imageFile1 = R.drawable.pupies;
+    public static String description1 = "Tu mascota lo merece";
 
-    public static String titulo2 = "item title bogota 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description bogota 2";
+    public static String titulo2 = "Salud domiciliaria";
+    public static int imageFile2 = R.drawable.adom;
+    public static String description2 = "Muchos problemas de salud se pueden resolver en casa";
 
-    public static String titulo3 = "item title bogota 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description bogota 3";
+    public static String titulo3 = "Estética dental Arte Oral";
+    public static int imageFile3 = R.drawable.arte;
+    public static String description3 = "Nuestros especialistas crearán una sonrisa perfecta";
 
-    public static String titulo4 = "item title bogota 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description bogota 4";
+    public static String titulo4 = "Gestión de activos inmobiliarios";
+    public static int imageFile4 = R.drawable.ag;
+    public static String description4 = "EG Colombia";
 
-    public static String titulo5 = "item title bogota 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description bogota 5";
+    public static String titulo5 = "Restaurante Bar ";
+    public static int imageFile5 = R.drawable.palos;
+    public static String description5 = "LO mejor en zona T, Colina campestre, Gran Estacion";
 
-    public static String titulo6 = "item title bogota 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description bogota 6";
+    public static String titulo6 = "Tres Pimientas Gourmet";
+    public static int imageFile6 = R.drawable.tres;
+    public static String description6 = "Eventos sociales y empresariales";
 
-    public static String titulo7 = "item title bogota 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description bogota 7";
+    public static String titulo7 = "La Recta ";
+    public static int imageFile7 = R.drawable.recta;
+    public static String description7 = "Aire acondicionado para su vehiculo";
 
-    public static String titulo8 = "item title bogota 8";
-    public static int imageFile8 = R.drawable.tienda;
-    public static String description8 = "item description bogota 8";
+    public static String titulo8 = "Fisio Slim Medical Spa";
+    public static int imageFile8 = R.drawable.spa;
+    public static String description8 = "Tratamientos naturales";
 
-    public static String titulo9 = "item title bogota 9";
-    public static int imageFile9 = R.drawable.tienda;
-    public static String description9 = "item description bogota 9";
+    public static String titulo9 = "Pies Talentosos";
+    public static int imageFile9 = R.drawable.pies;
+    public static String description9 = "Academia de fútbol";
 
-    public static String titulo10 = "item title bogota 10";
-    public static int imageFile10 = R.drawable.tienda;
-    public static String description10 = "item description bogota 10";
+    public static String titulo10 = "Restaurante Palco Parrilla";
+    public static int imageFile10 = R.drawable.palco;
+    public static String description10 = "Trae tu mascota, salta al bungee y disfruta de la mejor comida en familia";
 
-    public static String titulo11 = "item title bogota 11";
-    public static int imageFile11 = R.drawable.tienda;
-    public static String description11 = "item description bogota 11";
+    public static String titulo11 = "Coffe Break Express";
+    public static int imageFile11 = R.drawable.coffe;
+    public static String description11 = "Atendemos toda clase de eventos";
 
-    public static String titulo12 = "item title bogota 12";
-    public static int imageFile12 = R.drawable.tienda;
-    public static String description12 = "item description bogota 12";
+    public static String titulo12 = "Praxis";
+    public static int imageFile12 = R.drawable.praxis;
+    public static String description12 = "¿Que idioma quieres aprender?";
 
-    public static String titulo13 = "item title bogota 13";
-    public static int imageFile13 = R.drawable.tienda;
-    public static String description13 = "item description bogota 13";
+    public static String titulo13 = "Tecnilimpio";
+    public static int imageFile13 = R.drawable.tecni;
+    public static String description13 = "Técnicos en limpieza y mantenimiento";
 
-    public static String titulo14 = "item title bogota 14";
-    public static int imageFile14 = R.drawable.tienda;
-    public static String description14 = "item description bogota 14";
+    public static String titulo14 = "Enciso Staff";
+    public static int imageFile14 = R.drawable.enciso;
+    public static String description14 = "Peluquería y asesoría de novias";
 
-    public static String titulo15 = "item title bogota 15";
-    public static int imageFile15 = R.drawable.tienda;
-    public static String description15 = "item description bogota 15";
+    public static String titulo15 = "Mi Cocina Campetre";
+    public static int imageFile15 = R.drawable.micocina;
+    public static String description15 = "Tus eventos en un maravilloso sitio campestre";
 
     public static void addContentBogota(){
 
