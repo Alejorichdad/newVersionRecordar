@@ -33,7 +33,7 @@ public class ContentBogota {
     public static int imageFile5 = R.drawable.palos;
     public static String description5 = "LO mejor en zona T, Colina campestre, Gran Estacion";
 
-    public static String titulo6 = "Tres Pimientas Gourmet";
+    public static String titulo6 = "Servicio de catering Tres Pimientas Gourmet";
     public static int imageFile6 = R.drawable.tres;
     public static String description6 = "Eventos sociales y empresariales";
 
@@ -73,6 +73,38 @@ public class ContentBogota {
     public static int imageFile15 = R.drawable.micocina;
     public static String description15 = "Tus eventos en un maravilloso sitio campestre";
 
+    public static String titulo16 = "Mi Cocina Campetre";
+    public static int imageFile16 = R.drawable.micocina;
+    public static String description16 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo17 = "Mi Cocina Campetre";
+    public static int imageFile17 = R.drawable.micocina;
+    public static String description17 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo18 = "Mi Cocina Campetre";
+    public static int imageFile18 = R.drawable.micocina;
+    public static String description18 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo19 = "Mi Cocina Campetre";
+    public static int imageFile19 = R.drawable.micocina;
+    public static String description19 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo20 = "Mi Cocina Campetre";
+    public static int imageFile20 = R.drawable.micocina;
+    public static String description20 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo21 = "Mi Cocina Campetre";
+    public static int imageFile21 = R.drawable.micocina;
+    public static String description21 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo22 = "Mi Cocina Campetre";
+    public static int imageFile22 = R.drawable.micocina;
+    public static String description22 = "Tus eventos en un maravilloso sitio campestre";
+
+    public static String titulo23 = "Mi Cocina Campetre";
+    public static int imageFile23 = R.drawable.micocina;
+    public static String description23 = "Tus eventos en un maravilloso sitio campestre";
+
     public static void addContentBogota(){
 
         contentBogota.add(new BogotaModel(imageFile1, titulo1, description1));
@@ -90,6 +122,14 @@ public class ContentBogota {
         contentBogota.add(new BogotaModel(imageFile13, titulo13, description13));
         contentBogota.add(new BogotaModel(imageFile14, titulo14, description14));
         contentBogota.add(new BogotaModel(imageFile15, titulo15, description15));
+        contentBogota.add(new BogotaModel(imageFile16, titulo16, description16));
+        contentBogota.add(new BogotaModel(imageFile17, titulo17, description17));
+        contentBogota.add(new BogotaModel(imageFile18, titulo18, description18));
+        contentBogota.add(new BogotaModel(imageFile19, titulo19, description19));
+        contentBogota.add(new BogotaModel(imageFile20, titulo20, description20));
+        contentBogota.add(new BogotaModel(imageFile21, titulo21, description21));
+        contentBogota.add(new BogotaModel(imageFile22, titulo22, description22));
+        contentBogota.add(new BogotaModel(imageFile23, titulo23, description23));
     }
 
     public static List<BogotaModel> getContentBogota(){

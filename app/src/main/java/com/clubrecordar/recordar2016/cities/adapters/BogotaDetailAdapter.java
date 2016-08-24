@@ -20,6 +20,7 @@ import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetFourteenthActiv
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetFourthActivity;
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetNinthActivity;
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetSecActivity;
+import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetSeventeenthActivity;
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetSeventhActivity;
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetSixthActivity;
 import com.clubrecordar.recordar2016.detailsItem.bogota.BogotaDetTenthActivity;
@@ -405,6 +406,28 @@ public class BogotaDetailAdapter extends RecyclerView.Adapter<BogotaDetailAdapte
                     }
                     //Toast.makeText(v.getContext(), "CLIKC Alianza items", Toast.LENGTH_SHORT).show();
                     intent = new Intent(context, BogotaDetFifteenthActivity.class);
+                    intent.putExtra("title", title);
+                    intent.putExtra("description", description);
+                    intent.putExtra("phone", phone);
+                    intent.putExtra("email", email);
+                    intent.putExtra("coords", coords);
+                    intent.putExtra("image", image);
+                    context.startActivity(intent);
+                    break;
+                case 15:
+                    try {
+                        title = (String) DetailBogota.getDetailBogota().getJSONObject("item17").get("title");
+                        description = (String) DetailBogota.getDetailBogota().getJSONObject("item17").get("description");
+                        phone = (String) DetailBogota.getDetailBogota().getJSONObject("item17").get("phone");
+                        email = (String) DetailBogota.getDetailBogota().getJSONObject("item17").get("email");
+                        coords = (String) DetailBogota.getDetailBogota().getJSONObject("item17").get("coords");
+                        image = (int) DetailBogota.getDetailBogota().getJSONObject("item17").get("image");
+
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                    //Toast.makeText(v.getContext(), "CLIKC Alianza items", Toast.LENGTH_SHORT).show();
+                    intent = new Intent(context, BogotaDetSeventeenthActivity.class);
                     intent.putExtra("title", title);
                     intent.putExtra("description", description);
                     intent.putExtra("phone", phone);
