@@ -54,7 +54,7 @@ public class DetailBoyaca {
     public static String description4 = "Contacto: beneficio para los afiliados: 30% descuento, en grupo sexta personas gratis.";
     public static String phone4 = " 3212095655";
     public static String email4 = "reservas@termalespaipa.co";
-    public static int imageFile4 = R.drawable.itpd;
+    public static int imageFile4 = R.drawable.itp;
     public static String coords4 = "5.771992, -73.115821";
 
     public static String title5 = "titulo5";

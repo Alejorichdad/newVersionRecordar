@@ -12,33 +12,33 @@ import java.util.List;
 public class ContentValle {
     public static List<ValleModel> contentValle =  new ArrayList<>();
 
-    public static String titulo1 = "item title valle 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description valle 1";
+    public static String titulo1 = "Corporacion Eloisa Tamayo";
+    public static int imageFile1 = R.drawable.eliosa;
+    public static String description1 = "Institución de Educación Para El Trabajo y El desarrollo Humano";
 
-    public static String titulo2 = "item title valle 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description valle 2";
+    public static String titulo2 = "Sonricentro";
+    public static int imageFile2 = R.drawable.sonricentro;
+    public static String description2 = "Clínica odontológica";
 
-    public static String titulo3 = "item title valle 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description valle 3";
+    public static String titulo3 = "Odonto INT";
+    public static int imageFile3 = R.drawable.odontoint;
+    public static String description3 = "Odontología Integral";
 
-    public static String titulo4 = "item title valle 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description valle 4";
+    public static String titulo4 = "Spa Diana Ardila";
+    public static int imageFile4 = R.drawable.dianaradila;
+    public static String description4 = "Armonía para tu vida";
 
-    public static String titulo5 = "item title valle 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description valle 5";
+    public static String titulo5 = "Pineda Junior";
+    public static int imageFile5 = R.drawable.pineda;
+    public static String description5 = "Escuela deportiva";
 
-    public static String titulo6 = "item title valle 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description valle 6";
+    public static String titulo6 = "Hotel Sicarare";
+    public static int imageFile6 = R.drawable.sicarare;
+    public static String description6 = "El Hotel de los grandes eventos en valledupar";
 
-    public static String titulo7 = "item title valle 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description valle 7";
+    public static String titulo7 = "Optica Precisa";
+    public static int imageFile7 = R.drawable.optica;
+    public static String description7 = "El cuidado de tus ojos";
 
     public static String titulo8 = "item title valle 8";
     public static int imageFile8 = R.drawable.tienda;
