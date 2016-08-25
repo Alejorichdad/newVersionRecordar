@@ -19,7 +19,7 @@
         jar="/Users/alejorichdad/Desktop/newversionrecordar/newVersionRecordar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c042228255d5810633f7ea94019b64f0534b4b7b">
+        sha1="673f2d5c93e270b5a42640d50766e6c6d4c868ef">
         <dex dex="/Users/alejorichdad/Desktop/newversionrecordar/newVersionRecordar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a7767a089625d2378b046e6d7b7de4fc16719fe3/classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jar="/Users/alejorichdad/Desktop/newversionrecordar/newVersionRecordar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="760ec3b3d4fe5e82d90acf4429ec8a47df4fbd24">
+        sha1="e9f220edd8004abacac5f6c3fe783f46da51d5cd">
         <dex dex="/Users/alejorichdad/Desktop/newversionrecordar/newVersionRecordar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_068fd65397a9252e95166dfeb4aea8ac80208add/classes.dex" />
     </item>
     <item

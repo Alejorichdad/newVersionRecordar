@@ -13,33 +13,33 @@ public class ContentCartagena {
 
     public static List<CartagenaModel> contentCartagena =  new ArrayList<>();
 
-    public static String titulo1 = "item title cartagena 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description cartagena 1";
+    public static String titulo1 = "Hotel Dann";
+    public static int imageFile1 = R.drawable.dann;
+    public static String description1 = "Planes de Vacaciones, Románticos, Familiares. ";
 
-    public static String titulo2 = "item title cartagena 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description cartagena 2";
+    public static String titulo2 = "Baila Bolera";
+    public static int imageFile2 = R.drawable.bolera;
+    public static String description2 = " 12 pistas de bolos equipadas con tecnología de punta";
 
-    public static String titulo3 = "item title cartagena 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description cartagena 3";
+    public static String titulo3 = "Educación superior formal";
+    public static int imageFile3 = R.drawable.cun;
+    public static String description3 = " Programas académicos, campus virtual, inscripciones, sedes, educación a distancia.";
 
-    public static String titulo4 = "item title cartagena 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description cartagena 4";
+    public static String titulo4 = "Academia Bellas Artes";
+    public static int imageFile4 = R.drawable.bellasa;
+    public static String description4 = "Formación artistica";
 
-    public static String titulo5 = "item title cartagena 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description cartagena 5";
+    public static String titulo5 = "Odontología avanzada Jorge Macias";
+    public static int imageFile5 = R.drawable.odoto;
+    public static String description5 = "Somos un centro de odontología especializada ";
 
-    public static String titulo6 = "item title cartagena 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description cartagena 6";
+    public static String titulo6 = "Spa Paltiel";
+    public static int imageFile6 = R.drawable.paltiel;
+    public static String description6 = "Creamos espacios armónicos , qué propician la relajación,directamente en él lugar qué usted o su empresa requiera";
 
-    public static String titulo7 = "item title cartagena 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description cartagena 7";
+    public static String titulo7 = "City trolley tour";
+    public static int imageFile7 = R.drawable.troley;
+    public static String description7 = "Disfruta de Cartagena y sus destinos a través de una experiencia única.";
 
     public static String titulo8 = "item title cartagena 8";
     public static int imageFile8 = R.drawable.tienda;

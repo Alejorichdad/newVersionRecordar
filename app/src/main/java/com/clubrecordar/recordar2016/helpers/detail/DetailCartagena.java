@@ -28,54 +28,54 @@ public class DetailCartagena {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static String email1 = "some@gmail.com";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Planes de Vacaciones, Románticos, Familiares";
+    public static String description1 = "Contacto: Iveth Buendia, beneficio afiliados: 239 mil pesos noche para dos personas.";
+    public static String phone1 = "3006107384";
+    public static String email1 = "atencionalcliente@hoteldanncartagena.com";
+    public static int imageFile1 = R.drawable.dannd;
+    public static String coords1 = "10.397496, -75.563220";
 
-    public static String title2 = "titulo2";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "12 pistas de bolos equipadas con tecnología de punta";
+    public static String description2 = "Contacto: Melissa Daza, beneficio afiliados: zapatos para juego sin costo.";
+    public static String phone2 = " 3015174869";
+    public static String email2 = "bailaboleracartagena@gmail.com";
+    public static int imageFile2 = R.drawable.bolerad;
+    public static String coords2 = "10.420750, -75.538963";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Educación superior formal";
+    public static String description3 = "Contacto: Verónica Rivera, beneficio afiliados: 30% de descuento en la matricula para sus socios.";
+    public static String phone3 = "3213943010";
+    public static String email3 = "veronica_rivera@cun.edu.co";
+    public static int imageFile3 = R.drawable.cund;
+    public static String coords3 = "10.427943, -75.546242";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "Academia de Bellas Artes";
+    public static String description4 = "Contacto: Angelica Fortich, beneficio afiliados: tarifa especial de $340 mil el semestre de cursos.";
+    public static String phone4 = "3172303610";
+    public static String email4 = "apoyologistico@unibaq.edu.co";
+    public static int imageFile4 = R.drawable.bellasad;
+    public static String coords4 = "11.002924, -74.823356";
 
-    public static String title5 = "titulo5";
-    public static String description5 = "description5";
-    public static String phone5 = "544567";
-    public static String email5 = "some@gmail.com";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String coords5 = "37.7749,-122.4194";
+    public static String title5 = "Odontología avanzada Jorge Macias";
+    public static String description5 = "Contacto: Dr: Jorge Maciá, beneficio afiliados: 20%. Bocagrande Edificio Seguros Bolívar Local 6 # 14-97.";
+    public static String phone5 = "3007558046";
+    public static String email5 = "jorgemaciadds@yahoo.es  ";
+    public static int imageFile5 = R.drawable.odotod;
+    public static String coords5 = "10.413737, -75.550268";
 
-    public static String title6 = "titulo6";
-    public static String description6 = "description6";
-    public static String phone6 = "644567";
-    public static String email6 = "some@gmail.com";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String coords6 = "37.7749,-122.4194";
+    public static String title6 = "Spa Paltiel";
+    public static String description6 = "Contacto: Alexandra Mercado Osorio, beneficio afiliados: descuento 30% spa movil.";
+    public static String phone6 = "3106233693";
+    public static String email6 = "gerencia@paltiel.com.co";
+    public static int imageFile6 = R.drawable.paltield;
+    public static String coords6 = "10.424582, -75.548215";
 
-    public static String title7 = "titulo7";
-    public static String description7 = "description7";
-    public static String phone7 = "744567";
-    public static String email7 = "some@gmail.com";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String coords7 = "37.7749,-122.4194";
+    public static String title7 = "City trolley tour";
+    public static String description7 = "Contacto: Juan Camilo Rivera, beneficio para los afiliados: 35% descuento en nuestro servicios VIP de tour por la ciudad.";
+    public static String phone7 = " 3002530210";
+    public static String email7 = "jcrivera@colombiatrolley.com";
+    public static int imageFile7 = R.drawable.troleyd;
+    public static String coords7 = "10.414058, -75.542413";
 
     public static String title8 = "titulo8";
     public static String description8 = "description8";
