@@ -12,49 +12,49 @@ import java.util.List;
 public class ContentCali {
     public static List<CaliModel> contentCali =  new ArrayList<>();
 
-    public static String titulo1 = "item title cali 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description cali 1";
+    public static String titulo1 = "Ortho Oral";
+    public static int imageFile1 = R.drawable.ortho;
+    public static String description1 = "Ortodoncia y odontología integral";
 
-    public static String titulo2 = "item title cali 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description cali 2";
+    public static String titulo2 = "Spa Libi´d";
+    public static int imageFile2 = R.drawable.spalib;
+    public static String description2 = "La naturaleza de tu piel";
 
-    public static String titulo3 = "item title cali 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description cali 3";
+    public static String titulo3 = "Centro de Capacitación y Educación Dirigida";
+    public static int imageFile3 = R.drawable.cced;
+    public static String description3 = "Institución de formación para el trabajo y el desarrollo humano";
 
-    public static String titulo4 = "item title cali 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description cali 4";
+    public static String titulo4 = "Fomento IPS";
+    public static int imageFile4 = R.drawable.fomento;
+    public static String description4 = "Institución prestadora de servicios en salud";
 
-    public static String titulo5 = "item title cali 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description cali 5";
+    public static String titulo5 = "Laboratorios Angel";
+    public static int imageFile5 = R.drawable.angel;
+    public static String description5 = "Buscamos tu bienestar";
 
-    public static String titulo6 = "item title cali 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description cali 6";
+    public static String titulo6 = "Odontología A.H";
+    public static int imageFile6 = R.drawable.ah;
+    public static String description6 = "Verte sonreír, nuestra razón de ser";
 
-    public static String titulo7 = "item title cali 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description cali 7";
+    public static String titulo7 = "Hotel Torre Cali";
+    public static int imageFile7 = R.drawable.torre;
+    public static String description7 = "Ubicado muy cerca del centro de la ciudad";
 
-    public static String titulo8 = "item title cali 8";
-    public static int imageFile8 = R.drawable.tienda;
-    public static String description8 = "item description cali 8";
+    public static String titulo8 = "Médical Colombia";
+    public static int imageFile8 = R.drawable.medical;
+    public static String description8 = "Cuidando tu salud en casa";
 
-    public static String titulo9 = "item title cali 9";
-    public static int imageFile9 = R.drawable.tienda;
-    public static String description9 = "item description cali 9";
+    public static String titulo9 = "Hotel Casa Toscano";
+    public static int imageFile9 = R.drawable.toscano;
+    public static String description9 = "!Escapate en Toscano! a la Sucursal del Cielo";
 
-    public static String titulo10 = "item title cali 10";
-    public static int imageFile10 = R.drawable.tienda;
-    public static String description10 = "item description cali 10";
+    public static String titulo10 = "Tienda Vieja";
+    public static int imageFile10 = R.drawable.tienda1;
+    public static String description10 = "La mejor discoteca, viejoteca ";
 
-    public static String titulo11 = "item title cali 11";
-    public static int imageFile11 = R.drawable.tienda;
-    public static String description11 = "item description cali 11";
+    public static String titulo11 = "El Rancho de Jonas";
+    public static int imageFile11 = R.drawable.rancho;
+    public static String description11 = "Uno de los mejores restaurantes en Cali";
 
     public static String titulo12 = "item title cali 12";
     public static int imageFile12 = R.drawable.tienda;
@@ -68,11 +68,13 @@ public class ContentCali {
     public static int imageFile14 = R.drawable.tienda;
     public static String description14 = "item description cali 14";
 
+
     public static String titulo15 = "item title cali 15";
-    public static int imageFile15 = R.drawable.tienda;
+    public static int imageFile15= R.drawable.angel;
     public static String description15 = "item description cali 15";
 
     public static void addContentCali(){
+
         contentCali.add(new CaliModel(imageFile1, titulo1, description1));
         contentCali.add(new CaliModel(imageFile2, titulo2, description2));
         contentCali.add(new CaliModel(imageFile3, titulo3, description3));

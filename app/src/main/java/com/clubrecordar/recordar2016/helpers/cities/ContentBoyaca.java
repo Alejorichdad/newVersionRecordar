@@ -12,21 +12,21 @@ import java.util.List;
 public class ContentBoyaca {
     public static List<BoyacaModel> contentBoyaca =  new ArrayList<>();
 
-    public static String titulo1 = "item title boyaca 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description boyaca 1";
+    public static String titulo1 = "Hotel Sochagota Paipa";
+    public static int imageFile1 = R.drawable.sochag;
+    public static String description1 = "Ubicado en Paipa frente al Lago Sochagota";
 
-    public static String titulo2 = "item title boyaca 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description boyaca 2";
+    public static String titulo2 = "Hotel la Posada Colonial";
+    public static int imageFile2 = R.drawable.posada;
+    public static String description2 = "Disfrute de las medicinales aguas termominerales de la región";
 
-    public static String titulo3 = "item title boyaca 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description boyaca 3";
+    public static String titulo3 = "Hotel Boyacá Plaza";
+    public static int imageFile3 = R.drawable.boyaca1;
+    public static String description3 = "En medio del centro histórico, financiero y comercial de Tunja";
 
-    public static String titulo4 = "item title boyaca 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description boyaca 4";
+    public static String titulo4 = "Termales Paipa ITP";
+    public static int imageFile4 = R.drawable.itp;
+    public static String description4 = "primer centro de hidroterapia termominero-medicinal único en su género en Latinoamérica.";
 
     public static String titulo5 = "item title boyaca 5";
     public static int imageFile5 = R.drawable.tienda;

@@ -29,82 +29,82 @@ public class DetailCali {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String email1 = "some@gmail.com";
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Ortodoncia y odontología integral";
+    public static String description1 = "Contacto: Leonor Cabal, beneficio afiliados: descuentos del 20% en procedimientos odontológicos.";
+    public static String phone1 = "310 503 6273";
+    public static int imageFile1 = R.drawable.orthod;
+    public static String email1 = "orthooral@hotmail.com";
+    public static String coords1 = "3.460574, -76.506934";
 
-    public static String title2 = "titulo2";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "Spa Libi´d";
+    public static String description2 = "Contacto: Jovanna Andrea Vasquez, beneficio afiliados: descuentos desde 15% en productos Libi´d y 20% en servicio spa";
+    public static String phone2 = " 3178609036";
+    public static String email2 = "andrea.libid@hotmail.com";
+    public static int imageFile2 = R.drawable.spalibd;
+    public static String coords2 = "#";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Centro de Capacitación y Educación Dirigida\"";
+    public static String description3 = "Contacto: Liliana Quijano, beneficio afiliados: descuentos desde 15% al 20% en nuestros cursos de capacitación";
+    public static String phone3 = "3188278067";
+    public static String email3 = "aspirantes@cedd.edu.co";
+    public static int imageFile3 = R.drawable.ccedd;
+    public static String coords3 = "3.427842, -76.540568";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "Fomento IPS";
+    public static String description4 = "Contacto: Maribel Morales, beneficio afiliados: exámenes gratis y descuento en los eventos de empresas afiliadas";
+    public static String phone4 = "3147401515";
+    public static String email4 = "gerencia@fomentoips.com.co";
+    public static int imageFile4 = R.drawable.fomentod;
+    public static String coords4 = "3.525986, -76.298526";
 
-    public static String title5 = "titulo5";
-    public static String description5 = "description5";
-    public static String phone5 = "544567";
-    public static String email5 = "some@gmail.com";
-    public static int imageFile5 = R.drawable.tienda;
+    public static String title5 = "Laboratorios Angel";
+    public static String description5 = "Contacto: Beatriz Moya, beneficio para los afiliados: chequeos ejecutivos con tarifas especiales.";
+    public static String phone5 = " 3116401624";
+    public static String email5 = "alanzas@clurecordar.com";
+    public static int imageFile5 = R.drawable.angeld;
     public static String coords5 = "37.7749,-122.4194";
 
-    public static String title6 = "titulo6";
-    public static String description6 = "description6";
-    public static String phone6 = "644567";
-    public static String email6 = "some@gmail.com";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String coords6 = "37.7749,-122.4194";
+    public static String title6 = "Odontología A.H";
+    public static String description6 = "Contacto: Alvaro Jose Aleman ,beneficio para los afiliados: 20% descuentos en rehabilitación oral.";
+    public static String phone6 = "3103903619";
+    public static String email6 = "info@clinicaodontologicaah.com";
+    public static int imageFile6 = R.drawable.ahd;
+    public static String coords6 = "3.420563, -76.538631";
 
-    public static String title7 = "titulo7";
-    public static String description7 = "description7";
-    public static String phone7 = "744567";
-    public static String email7 = "some@gmail.com";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String coords7 = "37.7749,-122.4194";
+    public static String title7 = "Ubicado muy cerca del centro de la ciudad";
+    public static String description7 = "Contacto: María Fernanda Espinosa, beneficio para los afiliados: estadía pareja + desayuno desde $115.000 + iva.";
+    public static String phone7 = "0326674949";
+    public static String email7 = "dcc1@hoteltorresdecali.com";
+    public static int imageFile7 = R.drawable.torred;
+    public static String coords7 = "3.458840, -76.528739";
 
-    public static String title8 = "titulo8";
-    public static String description8 = "description8";
-    public static String phone8 = "844567";
-    public static String email8 = "some@gmail.com";
-    public static int imageFile8 = R.drawable.tienda;
-    public static String coords8 = "37.7749,-122.4194";
+    public static String title8 = "Cuidando tu salud en casa";
+    public static String description8 = "Contacto: Julian Gamboa, beneficio para los afiliados: 40% descuento.";
+    public static String phone8 = "3007297817";
+    public static String email8 = "servicioalcliente@medicacolombia.com";
+    public static int imageFile8 = R.drawable.medicald1;
+    public static String coords8 = "3.460538, -76.528471";
 
-    public static String title9 = "titulo9";
-    public static String description9 = "description9";
-    public static String phone9 = "944567";
-    public static String email9 = "some@gmail.com";
-    public static int imageFile9 = R.drawable.tienda;
-    public static String coords9 = "37.7749,-122.4194";
+    public static String title9 = "!Escapate en Toscano! a la Sucursal del Cielo";
+    public static String description9 = "Contacto: Lilian Moreno, beneficio para los afiliados: 50% descuento, más la cuarta noche gratis en el hotel.";
+    public static String phone9 = "3183891780,";
+    public static String email9 = "cali@casatoscano.com";
+    public static int imageFile9 = R.drawable.toscanod;
+    public static String coords9 = "3.451499, -76.538702";
 
-    public static String title10 = "titulo10";
-    public static String description10 = "description10";
-    public static String phone10 = "1044567";
-    public static String email10 = "some@gmail.com";
-    public static int imageFile10 = R.drawable.tienda;
-    public static String coords10 = "37.7749,-122.4194";
+    public static String title10 = "Tienda Vieja";
+    public static String description10 = "Contacto: Rocio Medina, beneficio para los afiliados: 10% descuento presentando su tarjeta Recordar.";
+    public static String phone10 = "3162914617,";
+    public static String email10 = "eventos@elranchodejonas.com";
+    public static int imageFile10 = R.drawable.tiendad;
+    public static String coords10 = "3.416734, -76.536952";
 
-    public static String title11 = "titulo11";
-    public static String description11 = "description11";
-    public static String phone11 = "1144567";
-    public static String email11 = "some@gmail.com";
-    public static int imageFile11 = R.drawable.tienda;
-    public static String coords11 = "37.7749,-122.4194";
+    public static String title11 = "El Rancho de Jonas";
+    public static String description11 = "Contacto: Rocio Medina, beneficio para los afiliados: 10% descuento presentando su tarjeta Recordar.";
+    public static String phone11 = "3162914617";
+    public static String email11 = "eventos@elranchodejonas.com";
+    public static int imageFile11 = R.drawable.ranchod;
+    public static String coords11 = "3.417139, -76.536709";
 
     public static String title12 = "titulo12";
     public static String description12 = "description12";

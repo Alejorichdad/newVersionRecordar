@@ -29,33 +29,33 @@ public class DetailBoyaca {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static String email1 = "some@gmail.com";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Hotel Sochagota";
+    public static String description1 = "Contacto: beneficio para los afiliados: descuentos especial en pasadía.";
+    public static String phone1 = "3212694313";
+    public static String email1 = "info@hotelsochagota.com";
+    public static int imageFile1 = R.drawable.sochagd;
+    public static String coords1 = "5.762587, -73.110439";
 
-    public static String title2 = "titulo2 boyaca";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "Hotel la Posada Colonial Paipa";
+    public static String description2 = "Contacto: beneficio para los afiliados: 20% descuento para la gente de Recordar.";
+    public static String phone2 = "0387850073";
+    public static String email2 = "alianzas@clubrecordar.com";
+    public static int imageFile2 = R.drawable.posada;
+    public static String coords2 = "5.780356, -73.118963";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Hotel Boyaca plaza";
+    public static String description3 = "Contacto: beneficio para los afiliados: 30% descuento en servicios de nuestro hotel.";
+    public static String phone3 = "0387431070";
+    public static String email3 = "comercial@hotelboyacaplaza.co";
+    public static int imageFile3 = R.drawable.boyacad;
+    public static String coords3 = "5.531424, -73.363655";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "Instituto Turístico Paipa";
+    public static String description4 = "Contacto: beneficio para los afiliados: 30% descuento, en grupo sexta personas gratis.";
+    public static String phone4 = " 3212095655";
+    public static String email4 = "reservas@termalespaipa.co";
+    public static int imageFile4 = R.drawable.itpd;
+    public static String coords4 = "5.771992, -73.115821";
 
     public static String title5 = "titulo5";
     public static String description5 = "description5";
