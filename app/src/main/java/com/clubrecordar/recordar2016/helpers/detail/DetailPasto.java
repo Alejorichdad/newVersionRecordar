@@ -28,54 +28,54 @@ public class DetailPasto {
 
     /* DATA */
 
-    public static String title1 = "titulo1";
-    public static String description1 = "description1";
-    public static String phone1 = "12344567";
-    public static String email1 = "some@gmail.com";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String coords1 = "37.7749,-122.4194";
+    public static String title1 = "Clinilaser";
+    public static String description1 = "Contacto: Robert Martinez, beneficio para los afiliados: 15% descuento.";
+    public static String phone1 = "3153028063";
+    public static String email1 = "alianzas@clubrecordar.com";
+    public static int imageFile1 = R.drawable.pasto1;
+    public static String coords1 = "1.217558, -77.289074";
 
-    public static String title2 = "titulo2";
-    public static String description2 = "description2";
-    public static String phone2 = "22344567";
-    public static String email2 = "some@gmail.com";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String coords2 = "37.7749,-122.4194";
+    public static String title2 = "Centro Médico la Riviera";
+    public static String description2 = "Beneficio para los afiliados: descuento entre 15% al 50% según especialidad.";
+    public static String phone2 = "0327310228";
+    public static String email2 = "centromedicolariviera@hotmail.com";
+    public static int imageFile2 = R.drawable.rivierad;
+    public static String coords2 = "1.226303, -77.281927";
 
-    public static String title3 = "titulo3";
-    public static String description3 = "description3";
-    public static String phone3 = "3344567";
-    public static String email3 = "some@gmail.com";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String coords3 = "37.7749,-122.4194";
+    public static String title3 = "Sonrisas Sanas";
+    public static String description3 = "Contacto: Alicia Chavez, beneficio para los afiliados: 10% descuento en todo tratamiento odontológico y ortodoncia.";
+    public static String phone3 = "0327235304";
+    public static String email3 = "sonrisas.sanas@hotmail.com";
+    public static int imageFile3 = R.drawable.sonrisas;
+    public static String coords3 = "1.217821, -77.279202";
 
-    public static String title4 = "titulo4";
-    public static String description4 = "description4";
-    public static String phone4 = "444567";
-    public static String email4 = "some@gmail.com";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String coords4 = "37.7749,-122.4194";
+    public static String title4 = "C.E.R.O. Odontología";
+    public static String description4 = "Contacto: Deisy Milena, beneficio para los afiliados: 20% descuento en tratamientos de odontología.";
+    public static String phone4 = "3004896253";
+    public static String email4 = "alianzas@clubrecordar.com";
+    public static int imageFile4 = R.drawable.cero;
+    public static String coords4 = "1.202705, -77.277160";
 
-    public static String title5 = "titulo5";
-    public static String description5 = "description5";
-    public static String phone5 = "544567";
-    public static String email5 = "some@gmail.com";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String coords5 = "37.7749,-122.4194";
+    public static String title5 = "Hotel Club Xilon";
+    public static String description5 = "Contacto: beneficio para los afiliados: 10% descuento en servicios.";
+    public static String phone5 = "0327311212";
+    public static String email5 = "alianzas@clubrecordar.com";
+    public static int imageFile5 = R.drawable.xilon;
+    public static String coords5 = "1.210607, -77.278250";
 
-    public static String title6 = "titulo6";
-    public static String description6 = "description6";
-    public static String phone6 = "644567";
-    public static String email6 = "some@gmail.com";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String coords6 = "37.7749,-122.4194";
+    public static String title6 = "Hotel Don Saul";
+    public static String description6 = "Contacto: Nael Husein ,beneficio para los afiliados: descuento 30% solo hospedaje.";
+    public static String phone6 = "3167434731";
+    public static String email6 = "reservas@hoteldonsaul.com";
+    public static int imageFile6 = R.drawable.sauld;
+    public static String coords6 = "1.213161, -77.279129";
 
-    public static String title7 = "titulo7";
-    public static String description7 = "description7";
-    public static String phone7 = "744567";
-    public static String email7 = "some@gmail.com";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String coords7 = "37.7749,-122.4194";
+    public static String title7 = "Clínica Bellatriz";
+    public static String description7 = "Beneficio para los afiliados: precios especiales en servicios.";
+    public static String phone7 = "312 896 5332";
+    public static String email7 = "alinzas@clubrecordar.com";
+    public static int imageFile7 = R.drawable.bellatrizd;
+    public static String coords7 = "1.230067, -77.285583";
 
     public static String title8 = "titulo8";
     public static String description8 = "description8";

@@ -12,33 +12,33 @@ import java.util.List;
 public class ContentPasto {
     public static List<PastoModel> contentPasto =  new ArrayList<>();
 
-    public static String titulo1 = "item title pasto 1";
-    public static int imageFile1 = R.drawable.tienda;
-    public static String description1 = "item description pasto 1";
+    public static String titulo1 = "CliniLaser";
+    public static int imageFile1 = R.drawable.pasto1;
+    public static String description1 = "Clinilaser Salud y Belleza";
 
-    public static String titulo2 = "item title pasto 2";
-    public static int imageFile2 = R.drawable.tienda;
-    public static String description2 = "item description pasto 2";
+    public static String titulo2 = "Centro Médico la Riviera";
+    public static int imageFile2 = R.drawable.riviera;
+    public static String description2 = "Todos los servicios en un mismo lugar.";
 
-    public static String titulo3 = "item title pasto 3";
-    public static int imageFile3 = R.drawable.tienda;
-    public static String description3 = "item description pasto 3";
+    public static String titulo3 = "Sonrisas Sanas";
+    public static int imageFile3 = R.drawable.sonrisas;
+    public static String description3 = "Consultorio odontológico especializado";
 
-    public static String titulo4 = "item title pasto 4";
-    public static int imageFile4 = R.drawable.tienda;
-    public static String description4 = "item description pasto 4";
+    public static String titulo4 = "Centro de Odontología";
+    public static int imageFile4 = R.drawable.cero;
+    public static String description4 = "Brindamos tratamientos odontológicos integrales";
 
-    public static String titulo5 = "item title pasto 5";
-    public static int imageFile5 = R.drawable.tienda;
-    public static String description5 = "item description pasto 5";
+    public static String titulo5 = "Hotel Club Xilon";
+    public static int imageFile5 = R.drawable.xilon;
+    public static String description5 = "Hotel de lujo en pasto";
 
-    public static String titulo6 = "item title pasto 6";
-    public static int imageFile6 = R.drawable.tienda;
-    public static String description6 = "item description pasto 6";
+    public static String titulo6 = "Hotel Don Saul";
+    public static int imageFile6 = R.drawable.saul;
+    public static String description6 = "Hotel ubicado en centro de Pasto";
 
-    public static String titulo7 = "item title pasto 7";
-    public static int imageFile7 = R.drawable.tienda;
-    public static String description7 = "item description pasto 7";
+    public static String titulo7 = "Clínica Bellatriz";
+    public static int imageFile7 = R.drawable.bellatriz;
+    public static String description7 = "Recupera la juventud de tu rostro";
 
     public static String titulo8 = "item title pasto 8";
     public static int imageFile8 = R.drawable.tienda;
