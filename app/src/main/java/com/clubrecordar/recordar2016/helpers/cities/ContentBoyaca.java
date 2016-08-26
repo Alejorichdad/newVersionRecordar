@@ -77,17 +77,17 @@ public class ContentBoyaca {
         contentBoyaca.add(new BoyacaModel(imageFile2, titulo2, description2));
         contentBoyaca.add(new BoyacaModel(imageFile3, titulo3, description3));
         contentBoyaca.add(new BoyacaModel(imageFile4, titulo4, description4));
-        contentBoyaca.add(new BoyacaModel(imageFile5, titulo5, description5));
-        contentBoyaca.add(new BoyacaModel(imageFile6, titulo6, description6));
-        contentBoyaca.add(new BoyacaModel(imageFile7, titulo7, description7));
-        contentBoyaca.add(new BoyacaModel(imageFile8, titulo8, description8));
-        contentBoyaca.add(new BoyacaModel(imageFile9, titulo9, description9));
-        contentBoyaca.add(new BoyacaModel(imageFile10, titulo10, description10));
-        contentBoyaca.add(new BoyacaModel(imageFile11, titulo11, description11));
-        contentBoyaca.add(new BoyacaModel(imageFile12, titulo12, description12));
-        contentBoyaca.add(new BoyacaModel(imageFile13, titulo13, description13));
-        contentBoyaca.add(new BoyacaModel(imageFile14, titulo14, description14));
-        contentBoyaca.add(new BoyacaModel(imageFile15, titulo15, description15));
+       //contentBoyaca.add(new BoyacaModel(imageFile5, titulo5, description5));
+       // contentBoyaca.add(new BoyacaModel(imageFile6, titulo6, description6));
+       // contentBoyaca.add(new BoyacaModel(imageFile7, titulo7, description7));
+       // contentBoyaca.add(new BoyacaModel(imageFile8, titulo8, description8));
+       // contentBoyaca.add(new BoyacaModel(imageFile9, titulo9, description9));
+       // contentBoyaca.add(new BoyacaModel(imageFile10, titulo10, description10));
+       // contentBoyaca.add(new BoyacaModel(imageFile11, titulo11, description11));
+       // contentBoyaca.add(new BoyacaModel(imageFile12, titulo12, description12));
+       // contentBoyaca.add(new BoyacaModel(imageFile13, titulo13, description13));
+       // contentBoyaca.add(new BoyacaModel(imageFile14, titulo14, description14));
+       // contentBoyaca.add(new BoyacaModel(imageFile15, titulo15, description15));
     }
 
     public static List<BoyacaModel> getContentBoyaca(){

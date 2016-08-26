@@ -142,33 +142,33 @@ public class DetailBogota {
     public static int imageFile15 = R.drawable.micocinad;
     public static String coords15 = "4.786417, -74.157939";
 
-    public static String title16 = "titulo16";
-    public static String description16 = "description16";
-    public static String phone16 = "1544567";
-    public static String email16 = "some@gmail.com";
-    public static int imageFile16 = R.drawable.tienda;
-    public static String coords16 = "37.7749,-122.4194";
+    public static String title16 = "Sushi Empire";
+    public static String description16 = "Contacto: Iván Toscano, beneficio afiliados: $15 mil rollo de 12 porciones, mínimo para domicilios 2 unidades.";
+    public static String phone16 = "3052304411";
+    public static String email16 = "alianzas@clubrecordar.com";
+    public static int imageFile16 = R.drawable.suchi;
+    public static String coords16 = "#";
 
-    public static String title17 = "titulo17";
-    public static String description17 = "description17";
-    public static String phone17 = "1544567";
-    public static String email17 = "some@gmail.com";
-    public static int imageFile17 = R.drawable.tienda;
-    public static String coords17 = "37.7749,-122.4194";
+    public static String title17 = "Hotel la Esperanza";
+    public static String description17 = "Contacto: Elcy Lara, beneficio afiliados: 15% descuento planes especiales y 90 mil pesos hospedaje pareja con desayuno.";
+    public static String phone17 = "3202271808";
+    public static String email17 = "elcyhotel@yahoo.es";
+    public static int imageFile17 = R.drawable.esperanza;
+    public static String coords17 = "5.113320, -73.794520";
 
-    public static String title18 = "titulo18";
-    public static String description18 = "description18";
-    public static String phone18 = "1344567";
-    public static String email18 = "some@gmail.com";
-    public static int imageFile18 = R.drawable.tienda;
-    public static String coords18 = "37.7749,-122.4194";
+    public static String title18 = "Show Place";
+    public static String description18 = "Contacto: Tatiana Albarracin, beneficio para los afiliados: 10% de descuento en la entrada y fiestas.";
+    public static String phone18 = "3186238266";
+    public static String email18 = "info@showpleace.com.co";
+    public static int imageFile18 = R.drawable.showplace;
+    public static String coords18 = "4.723058, -74.026758";
 
-    public static String title19 = "titulo19";
-    public static String description19 = "description19";
-    public static String phone19 = "1444567";
-    public static String email19 = "some@gmail.com";
-    public static int imageFile19 = R.drawable.tienda;
-    public static String coords19 = "37.7749,-122.4194";
+    public static String title19 = "Green Adventure";
+    public static String description19 = "Contacto: Juan Manuel Forero, beneficio para afiliados: 10 % descuento en deportes extremos y aventura.";
+    public static String phone19 = "3212138280";
+    public static String email19 = "gagcolombia@gmail.com";
+    public static int imageFile19 = R.drawable.greenadven;
+    public static String coords19 = "4.597597, -74.074665";
 
     public static String title20 = "titulo20";
     public static String description20 = "description20";

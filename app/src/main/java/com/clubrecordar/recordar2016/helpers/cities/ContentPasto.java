@@ -80,14 +80,14 @@ public class ContentPasto {
         contentPasto.add(new PastoModel(imageFile5, titulo5, description5));
         contentPasto.add(new PastoModel(imageFile6, titulo6, description6));
         contentPasto.add(new PastoModel(imageFile7, titulo7, description7));
-        contentPasto.add(new PastoModel(imageFile8, titulo8, description8));
-        contentPasto.add(new PastoModel(imageFile9, titulo9, description9));
-        contentPasto.add(new PastoModel(imageFile10, titulo10, description10));
-        contentPasto.add(new PastoModel(imageFile11, titulo11, description11));
-        contentPasto.add(new PastoModel(imageFile12, titulo12, description12));
-        contentPasto.add(new PastoModel(imageFile13, titulo13, description13));
-        contentPasto.add(new PastoModel(imageFile14, titulo14, description14));
-        contentPasto.add(new PastoModel(imageFile15, titulo15, description15));
+       // contentPasto.add(new PastoModel(imageFile8, titulo8, description8));
+       // contentPasto.add(new PastoModel(imageFile9, titulo9, description9));
+       // contentPasto.add(new PastoModel(imageFile10, titulo10, description10));
+       // contentPasto.add(new PastoModel(imageFile11, titulo11, description11));
+       // contentPasto.add(new PastoModel(imageFile12, titulo12, description12));
+       // contentPasto.add(new PastoModel(imageFile13, titulo13, description13));
+       // contentPasto.add(new PastoModel(imageFile14, titulo14, description14));
+       // contentPasto.add(new PastoModel(imageFile15, titulo15, description15));
     }
 
     public static List<PastoModel> getContentPasto(){

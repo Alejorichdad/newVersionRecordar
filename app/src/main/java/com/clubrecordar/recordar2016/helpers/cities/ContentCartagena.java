@@ -81,14 +81,14 @@ public class ContentCartagena {
         contentCartagena.add(new CartagenaModel(imageFile5, titulo5, description5));
         contentCartagena.add(new CartagenaModel(imageFile6, titulo6, description6));
         contentCartagena.add(new CartagenaModel(imageFile7, titulo7, description7));
-        contentCartagena.add(new CartagenaModel(imageFile8, titulo8, description8));
-        contentCartagena.add(new CartagenaModel(imageFile9, titulo9, description9));
-        contentCartagena.add(new CartagenaModel(imageFile10, titulo10, description10));
-        contentCartagena.add(new CartagenaModel(imageFile11, titulo11, description11));
-        contentCartagena.add(new CartagenaModel(imageFile12, titulo12, description12));
-        contentCartagena.add(new CartagenaModel(imageFile13, titulo13, description13));
-        contentCartagena.add(new CartagenaModel(imageFile14, titulo14, description14));
-        contentCartagena.add(new CartagenaModel(imageFile15, titulo15, description15));
+       // contentCartagena.add(new CartagenaModel(imageFile8, titulo8, description8));
+       // contentCartagena.add(new CartagenaModel(imageFile9, titulo9, description9));
+       // contentCartagena.add(new CartagenaModel(imageFile10, titulo10, description10));
+       // contentCartagena.add(new CartagenaModel(imageFile11, titulo11, description11));
+       // contentCartagena.add(new CartagenaModel(imageFile12, titulo12, description12));
+       // contentCartagena.add(new CartagenaModel(imageFile13, titulo13, description13));
+       // contentCartagena.add(new CartagenaModel(imageFile14, titulo14, description14));
+       // contentCartagena.add(new CartagenaModel(imageFile15, titulo15, description15));
     }
 
     public static List<CartagenaModel> getContentCartagena(){

@@ -147,7 +147,7 @@ public class CartagenaDetailAdapter extends RecyclerView.Adapter<CartagenaDetail
                         phone = (String) DetailCartagena.getDetailCartagena().getJSONObject("item4").get("phone");
                         email = (String) DetailCartagena.getDetailCartagena().getJSONObject("item4").get("email");
                         coords = (String) DetailCartagena.getDetailCartagena().getJSONObject("item4").get("coords");
-                        image = (int) DetailCartagena.getDetailCartagena().getJSONObject("item3").get("image");
+                        image = (int) DetailCartagena.getDetailCartagena().getJSONObject("item4").get("image");
 
                     } catch (JSONException e) {
                         e.printStackTrace();

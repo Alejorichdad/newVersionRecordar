@@ -125,7 +125,7 @@ public class BoyacaDetailAdapter extends RecyclerView.Adapter<BoyacaDetailAdapte
                         phone = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item3").get("phone");
                         email = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item3").get("email");
                         coords = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item3").get("coords");
-                        image = (int) DetailBoyaca.getDetailBoyaca().getJSONObject("item2").get("image");
+                        image = (int) DetailBoyaca.getDetailBoyaca().getJSONObject("item3").get("image");
 
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -148,7 +148,7 @@ public class BoyacaDetailAdapter extends RecyclerView.Adapter<BoyacaDetailAdapte
                         phone = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item4").get("phone");
                         email = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item4").get("email");
                         coords = (String) DetailBoyaca.getDetailBoyaca().getJSONObject("item4").get("coords");
-                        image = (int) DetailBoyaca.getDetailBoyaca().getJSONObject("item2").get("image");
+                        image = (int) DetailBoyaca.getDetailBoyaca().getJSONObject("item4").get("image");
 
                     } catch (JSONException e) {
                         e.printStackTrace();

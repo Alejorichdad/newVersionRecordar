@@ -86,10 +86,10 @@ public class ContentCali {
         contentCali.add(new CaliModel(imageFile9, titulo9, description9));
         contentCali.add(new CaliModel(imageFile10, titulo10, description10));
         contentCali.add(new CaliModel(imageFile11, titulo11, description11));
-        contentCali.add(new CaliModel(imageFile12, titulo12, description12));
-        contentCali.add(new CaliModel(imageFile13, titulo13, description13));
-        contentCali.add(new CaliModel(imageFile14, titulo14, description14));
-        contentCali.add(new CaliModel(imageFile15, titulo15, description15));
+       // contentCali.add(new CaliModel(imageFile12, titulo12, description12));
+       //contentCali.add(new CaliModel(imageFile13, titulo13, description13));
+        //contentCali.add(new CaliModel(imageFile14, titulo14, description14));
+        //contentCali.add(new CaliModel(imageFile15, titulo15, description15));
     }
 
     public static List<CaliModel> getContentCali(){

@@ -82,7 +82,7 @@ public class DetailCali {
     public static String description8 = "Contacto: Julian Gamboa, beneficio para los afiliados: 40% descuento.";
     public static String phone8 = "3007297817";
     public static String email8 = "servicioalcliente@medicacolombia.com";
-    public static int imageFile8 = R.drawable.medicald1;
+    public static int imageFile8 = R.drawable.medicalded;
     public static String coords8 = "3.460538, -76.528471";
 
     public static String title9 = "!Escapate en Toscano! a la Sucursal del Cielo";
@@ -253,6 +253,7 @@ public class DetailCali {
         contentCali8.put("description", description8);
         contentCali8.put("phone", phone8);
         contentCali8.put("email", email8);
+        contentCali7.put("image", imageFile8);
         contentCali8.put("coords", coords8);
 
         return contentCali8;

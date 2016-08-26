@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name"
+            android:label="@string/prueba"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -163,6 +163,22 @@
         <activity android:name=".detailsItem.bogota.BogotaDetFourteenthActivity"
             android:screenOrientation="portrait" />
         <activity android:name=".detailsItem.bogota.BogotaDetFifteenthActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetSixteenthActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetSeventeenthActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetEighteenthActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetNineteenthActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetTwentiethActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetTwentyfirstActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetTwentysecondActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".detailsItem.bogota.BogotaDetTwentythirdActivity"
             android:screenOrientation="portrait" />
         <activity android:name=".detailsItem.boyaca.BoyacaDetFirstActivity"
             android:screenOrientation="portrait" />

@@ -80,14 +80,14 @@ public class ContentValle {
         contentValle.add(new ValleModel(imageFile5, titulo5, description5));
         contentValle.add(new ValleModel(imageFile6, titulo6, description6));
         contentValle.add(new ValleModel(imageFile7, titulo7, description7));
-        contentValle.add(new ValleModel(imageFile8, titulo8, description8));
-        contentValle.add(new ValleModel(imageFile9, titulo9, description9));
-        contentValle.add(new ValleModel(imageFile10, titulo10, description10));
-        contentValle.add(new ValleModel(imageFile11, titulo11, description11));
-        contentValle.add(new ValleModel(imageFile12, titulo12, description12));
-        contentValle.add(new ValleModel(imageFile13, titulo13, description13));
-        contentValle.add(new ValleModel(imageFile14, titulo14, description14));
-        contentValle.add(new ValleModel(imageFile15, titulo15, description15));
+      //  contentValle.add(new ValleModel(imageFile8, titulo8, description8));
+      //  contentValle.add(new ValleModel(imageFile9, titulo9, description9));
+      //  contentValle.add(new ValleModel(imageFile10, titulo10, description10));
+      //  contentValle.add(new ValleModel(imageFile11, titulo11, description11));
+      //  contentValle.add(new ValleModel(imageFile12, titulo12, description12));
+      //  contentValle.add(new ValleModel(imageFile13, titulo13, description13));
+      //  contentValle.add(new ValleModel(imageFile14, titulo14, description14));
+      //  contentValle.add(new ValleModel(imageFile15, titulo15, description15));
     }
 
     public static List<ValleModel> getContentValle(){

@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity{
 
         items.add(new Alianzas(R.drawable.a_nacional, "Alianzas", "Alianzas por todo el pais"));
         items.add(new Alianzas(R.drawable.ingles, "Curso Online", "Aprende inglés ¡¡ya!!"));
-        items.add(new Alianzas(R.drawable.tienda, "Tienda Club", "Más y mejores ofertas Club"));
+        items.add(new Alianzas(R.drawable.puntos, "Tienda Club", "Más y mejores ofertas Club"));
         items.add(new Alianzas(R.drawable.destacados, "Tienda Club", "Más y mejores ofertas Club"));
 
 
